@@ -19,3 +19,6 @@ docker-compose up --build
 ## QR Code
 Scan the QR code below to visit my GitHub page
 ![Github QR Code](github_qr.png)
+
+## Log of successfully creating the QR
+![Log Screen](logs_screen.png)
